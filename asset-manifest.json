@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/waf-agency-test-snake/static/css/main.f3ce646f.css",
-    "main.js": "/waf-agency-test-snake/static/js/main.ac8990b8.js",
+    "main.css": "/waf-agency-test-snake/static/css/main.b03893d5.css",
+    "main.js": "/waf-agency-test-snake/static/js/main.e740bbfc.js",
     "index.html": "/waf-agency-test-snake/index.html",
-    "main.f3ce646f.css.map": "/waf-agency-test-snake/static/css/main.f3ce646f.css.map",
-    "main.ac8990b8.js.map": "/waf-agency-test-snake/static/js/main.ac8990b8.js.map"
+    "main.b03893d5.css.map": "/waf-agency-test-snake/static/css/main.b03893d5.css.map",
+    "main.e740bbfc.js.map": "/waf-agency-test-snake/static/js/main.e740bbfc.js.map"
   },
   "entrypoints": [
-    "static/css/main.f3ce646f.css",
-    "static/js/main.ac8990b8.js"
+    "static/css/main.b03893d5.css",
+    "static/js/main.e740bbfc.js"
   ]
 }
