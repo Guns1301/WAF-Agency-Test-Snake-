@@ -2,6 +2,7 @@ import React from "react";
 
 import PropTypes from "prop-types";
 import {
+  Title,
   TabContainer,
   Tab,
   TabCell,
@@ -13,6 +14,7 @@ import {
 export default function List({ users }) {
   return (
     <TabContainer>
+      <Title>List of record holders</Title>
       <Tab>
         <TabHead>
           <TabRow>

@@ -1,4 +1,3 @@
-export const userName = name => ({
-  type: "user/Name",
-  payload: name,
-});
+import { createAction } from "@reduxjs/toolkit";
+
+export const getUser = createAction("users/getUser");
